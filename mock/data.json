@@ -1,0 +1,20 @@
+{
+	"user" : [
+		{
+			"username" : "11111111111",
+			"password" : "123456"
+		}
+	],
+	"doctor" : [
+		{
+			"username" : "2222222222",
+			"password" : "123456"
+		}
+	],
+	"hospital" : [
+		{
+			"username" : "33333333333",
+			"password" : "123456"
+		}
+	]
+}
