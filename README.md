@@ -2,6 +2,10 @@
 
 > 深圳健康网
 
+#效果演示地址
+
+> https://dumengtao.github.io/vue-xky/dist/
+
 ## Build Setup
 
 ``` bash
